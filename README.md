@@ -6,6 +6,6 @@ Therfore, we will use 4 algortihms to build this models:
     - Support Vector Machine  
     - Logistic Regression  
 Then, we will compare these 4 models by comparing their accuracy, using these metrics:  
-    - Jaccard Index
-    - F1-score
-    - LogLoss (for the Logistic Regression model)
+    - Jaccard Index  
+    - F1-score  
+    - LogLoss (for the Logistic Regression model)  
